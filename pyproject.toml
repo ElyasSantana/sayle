@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "sayle"
+version = "0.1.0"
+description = ""
+authors = ["ElyasSantana <elyassantana01@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+ChatterBot = "1.0.4"
+pydantic = "^1.9.2"
+fastapi = "^0.81.0"
+pytz = "^2022.2.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

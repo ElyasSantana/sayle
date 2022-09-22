@@ -1,0 +1,35 @@
+[{
+    "questions": ["olá", "oi", "ei"],
+    "answer": "Olá, sou o robô 🤖 de atendimento. Como posso ajudar? 🤩 \n 1 - Ver Cardápio \n 2 - Quanto custa o frete? \n 3 - Tipos de pagamento"
+  },
+  {
+    "questions": ["bom dia"],
+    "answer": "Bom dia, sou o robô de atendimento. Como posso ajudar?"
+  },
+  {
+    "questions": ["boa tarde"],
+    "answer": "Boa tarde, sou o robô de atendimento. Como posso ajudar?"
+  },
+  {
+    "questions": ["boa noite"],
+    "answer": "Boa noite, sou o robô de atendimento. Como posso ajudar?"
+  },
+  {
+    "questions": ["obrigado"],
+    "answer": "Por nada. Volte sempre!"
+  },
+  {
+    "questions": ["tchau", "até logo", "xau", "bye", "flw"],
+    "answer": "Tchau, espero te ajudado. Volte sempre!"
+  },
+  {
+    "questions": [
+      "Quais as formas de pagamento?",
+      "Qual a forma de pagamento?",
+      "Aceita cartão?",
+      "Como faço o pagamento?",
+      "Posso pagar no cartão?"
+    ],
+    "answer": "As nossas formas de pagamento são: Cartão de crédito, Cartão de débito e Boleto bancário."
+  }
+]
